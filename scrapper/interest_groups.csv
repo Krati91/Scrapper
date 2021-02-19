@@ -1,0 +1,247 @@
+id,group_name,group_class_id
+78,Engineering,NULL
+80,Computer Engineering,78
+81,Civil Engineering,78
+83,Mechanical Engineering,78
+84,Electronics Engineering,78
+86,Electrical Engineering,78
+87,Doctors,NULL
+90,Obstetrics,87
+91,Gynaecology,87
+92,Dentistry,87
+93,Internal Medicines,87
+94,Paediatrics,87
+99,General Medicine (MBBS),87
+100,Sports,NULL
+102,Basketball,100
+104,Cricket,100
+105,Hockey,100
+107,Table Tennis,100
+108,Badminton,100
+115,Artists,NULL
+122,Photography,115
+123,Music,115
+125,Painting,115
+126,Dancing,115
+127,Theatre and Film,115
+130,Writing,115
+135,Hip Hop Dancing,126
+136,Salsa Dancing,126
+137,Zumba,126
+138,Classical Dancing,126
+140,Activism,NULL
+143,Social Activism,140
+144,Political Activism,140
+145,Animal Welfare,140
+146,Environment Activism,140
+148,Lawn Tennis,100
+157,Fitness,NULL
+158,Gym,157
+159,Running,157
+160,Cycling,157
+161,Yoga,157
+162,Wrestling,100
+163,Kizomba Dancing,126
+164,Food and Nutrition,157
+165,Bollywood,126
+166,Belly Dancing,126
+167,Football,100
+168,Golf,100
+169,Skating,100
+170,Blockchain & Cryptocurrency,80
+173,Lawyer,NULL
+174,Leisure,NULL
+172,Travelling,174
+175,Trekking & Hiking,157
+176,Business,NULL
+177,Startup,NULL
+178,Code Development,80
+179,QA & testing,80
+180,DevOps,80
+181,Python,80
+182,Wordpress,80
+183,Designing,NULL
+184,Parenting,NULL
+185,UI Designing,183
+186,Graphic Designing,183
+187,Meditation,157
+188,Self Healing,157
+189,Computer Networking,80
+190,Party,174
+191,Cyber Security,80
+192,Dermatology,87
+193,Neurology,87
+194,Ophthalmology,87
+195,Psychiatry,87
+196,Toxicology,87
+197,Baseball,100
+198,Volleyball,100
+199,Rugby,100
+200,Boxing,100
+201,Motorsports,100
+202,Cardiology,87
+203,Orthopaedic,87
+204,Endocrinology,87
+205,Oncology,87
+206,Anesthesia,87
+207,Gardening,174
+208,Infertility,87
+209,Immigration,NULL
+210,Makeup Artist,115
+211,MBA,NULL
+212,Human Resource,211
+213,Finance,211
+214,Marketing,211
+215,Leadership,211
+216,Financial Planning,176
+217,Management,211
+218,Containers,80
+219,Accounts,NULL
+220,Physics,NULL
+221,Chemistry,NULL
+222,Economics,NULL
+223,Literature,NULL
+224,Chartered Accountant,NULL
+225,Linguistic and Languages,NULL
+226,English Learning,225
+227,Spanish Learning,225
+228,Beer,174
+229,Marijuana,174
+230,Real Estate,NULL
+231,Emerging Technologies,NULL
+232,Data Analytics,80
+233,Mental Peace,157
+234,Sketching,115
+235,Russian Language,225
+236,German Language,225
+237,Business Strategy,176
+238,Wine,174
+239,Linux,80
+240,Business Networking,176
+241,Artificial Intelligence,80
+242,Game Developing,80
+243,Internet Of Things,80
+244,Aeronautical Engineering,78
+245,Chemical Engineering,78
+246,Fashion,115
+247,Flight Attendant,NULL
+248,Pilot,NULL
+249,Robotic Engineering,78
+251,Poetry,115
+252,Philosophy,NULL
+253,Architecture,81
+254,Rowing,100
+255,Virtual Reality,231
+256,Biochemistry,221
+257,Religion,252
+258,Spirituality,252
+259,Agriculture,NULL
+260,Book Reading,NULL
+261,History,NULL
+262,Space,NULL
+263,Pharmacy,87
+264,Education,NULL
+265,Entrance Exam,264
+266,Musical Instrument,115
+267,Lifestyle,NULL
+268,Maths,NULL
+269,French Language,225
+270,Student,264
+271,Chess,100
+272,Guitar,266
+273,Tabla,266
+274,Piano,266
+275,Violin,266
+276,Flute,266
+277,Drum,266
+278,Saxophone,266
+279,Cello,266
+280,Keyboard,266
+281,Harmonium,266
+282,Mythology,252
+283,Market Analysis,176
+284,LGBT,140
+285,Class 11,264
+286,Class 10,264
+287,Class 12,264
+288,Teacher,264
+289,Festival,NULL
+290,Beauty,NULL
+291,IIT JEE,265
+292,Archaeology,NULL
+293,Civilisation,NULL
+294,Astronomy,NULL
+295,Cooking,NULL
+296,Trading,176
+297,Movie Watching,NULL
+298,Archery,100
+299,Bowling,100
+300,Curling,100
+301,Karate,100
+302,Weight Lifting,100
+303,Shooting,100
+304,Ballet,126
+305,Kathak,126
+307,Aerial,126
+308,Tango,126
+309,Cancan,126
+310,Magic,NULL
+311,Horse Riding,NULL
+312,Self Defence,NULL
+313,Swimming,100
+314,Product Reviews,NULL
+315,Massage,NULL
+316,Mass media and Journalism,NULL
+317,Dating,NULL
+318,Database Administrator,80
+319,Machine Learning,80
+320,Personal Development,NULL
+321,Career Counselling,264
+322,Gaming,174
+323,Construction,81
+324,Urban Planning,81
+325,Structural Engineering,81
+326,Transportation Engineering,81
+327,Geotechnical Engineering,81
+328,Industrial Automation Engineering,83
+329,Nanotechnology Engineering,83
+330,Mechatronics Engineering,83
+331,Industrial Engineering,83
+332,Robotics Engineering,83
+333,Pottery,115
+334,Politics,NULL
+335,Gender Issue,140
+336,Humanity,NULL
+337,DJ,115
+338,Digital Marketing,NULL
+339,Volunteering,140
+340,Venture Capital,176
+341,Hotel Management,211
+342,Adventure,NULL
+343,Bungee Jumping,342
+344,Sky Diving,342
+345,Ocean Diving,342
+346,Canoeing,342
+347,Camping,342
+348,Inventors,NULL
+349,Anthropology,NULL
+350,Fine Arts,115
+351,Freeflying,342
+352,Scuba Diving,342
+353,Wind Surfing,342
+354,Homeless,140
+355,mountain biking,342
+356,Music Producers,115
+357,Performing and visual arts,115
+358,Operations,211
+359,Driving,NULL
+360,R&D,NULL
+361,Evolution,NULL
+362,ITI,NULL
+363,Affiliate Marketing,338
+364,Content Marketing,338
+365,Email Marketing,338
+366,Pay per Click Advertising,338
+367,Search Engine Marketing,338
+368,Social media marketing,338
+369,ATG_INTERNAL,NULL

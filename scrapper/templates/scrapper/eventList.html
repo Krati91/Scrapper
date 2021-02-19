@@ -1,0 +1,16 @@
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+
+{% for item in context %}
+    <h3>{{item.page_title}}</h3>
+    <ol>
+        {% for event in item.event_list %}
+            <li>
+                <a href="{{event.url}}" target="_blank">{{event.title}}</a>
+            </li>
+        {% endfor %}
+    </ol>
+{% endfor %}
+<form method="POST" action="{% url 'scrapper:collect_structured_data' %}">
+    {% csrf_token %}
+    <button type="submit" id="scrape-{{forloop.counter}}">Collect Structured Data</button>
+</form>
